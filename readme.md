@@ -1,4 +1,4 @@
-![cover](./src/assets/img/water-glass.svg)
+![cover](./src/assets/img/Water%20Day.png)
 
 # waterApp
 
